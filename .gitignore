@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+#storing API keys
 
 # Distribution / packaging
 .Python
